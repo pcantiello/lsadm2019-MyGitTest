@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
 
         // Prima grande modifica
         val a = 5
-        
+        // Grande algoritmo
+        val b = 2 * a
     }
 }
